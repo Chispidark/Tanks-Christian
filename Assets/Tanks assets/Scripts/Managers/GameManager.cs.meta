@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 18e521b6f8588c44f9e68c769421eb47
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_CameraControl: {instanceID: 0}
+  - m_MessageText: {instanceID: 0}
+  - m_TankPrefab: {instanceID: 0}
+  - powerUp1: {fileID: 2928158616038004773, guid: d8e532cc3ad9ce445bc4ab87e5b585ef,
+      type: 3}
+  - powerUp2: {fileID: 4296403203334275024, guid: 56c73d8ccf6ae074aba3797c52585ce6,
+      type: 3}
+  - powerUp3: {fileID: 4436233617122488500, guid: d7617cb211d49744686ea7fb0eec587c,
+      type: 3}
+  - powerUp4: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
